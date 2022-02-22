@@ -1,0 +1,156 @@
+#logo {
+    width: 200px;
+    height: 150px;
+    position: relative;
+    top: 30px;
+    z-index: 99;
+}
+
+#img_logo {
+    position: absolute;
+    z-index: 5;
+}
+
+#title {
+    position: relative;
+    z-index: 100;
+    color: rgba(47, 0, 255, 0.87);
+    font-size: 60px;
+}
+#img_title {
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    position: fixed;
+}
+
+#menu {
+    width: 200px;
+    height: 150px;
+    position: relative;
+    top: 20px;
+    z-index: 99;
+}
+
+#img_menu {
+    left: 0px;
+    position: absolute;
+    z-index: 5;
+    background-color: transparent;
+}
+
+.index {
+    position: relative;
+    z-index: 99;
+    font-size: 40px;
+    top: -20px;
+    width: 500px;
+}
+
+.about {
+    position: relative;
+    z-index: 99;
+    font-size: 40px;
+    top: 80px;
+    width: 500px;
+}
+
+.pic {
+    position: relative;
+    z-index: 99;
+    font-size: 40px;
+    top: 180px;
+    width: 500px;
+}
+
+.link {
+    position: relative;
+    z-index: 99;
+    font-size: 40px;
+    top: 270px;
+    width: 500px;
+}
+
+.mes {
+    position: relative;
+    z-index: 99;
+    font-size: 40px;
+    top: 370px;
+    width: 500px;
+}
+
+a {
+    color: rgb(80, 205, 255);
+    text-decoration: none;
+}
+
+#main {
+    position: relative;
+    top: 50px;
+    left: 250px;
+    z-index: 99;
+    font-size: 40px;
+    color: rgba(255, 80, 217, 0.651);
+}
+
+#ol_main {
+    position: relative;
+    top: 50px;
+    left: 50px;
+    z-index: 99;
+    font-size: 40px;
+}
+
+div {
+    position: absolute;
+}
+
+.pic_p {
+    size: fill;
+    position: relative;
+    top: 0px;
+    left: 350px;
+    z-index: 99;
+}
+
+.pic_p1 {
+    size: fill;
+    position: relative;
+    top: 200px;
+    left: 380px;
+    z-index: 99;
+}
+
+.a_ {
+    position: relative;
+    top: 100px;
+    left: 80px;
+    z-index: 99;
+    font-size: 40px;
+}
+
+.a_1 {
+    position: relative;
+    top: 200px;
+    left: 180px;
+    z-index: 99;
+    font-size: 40px;
+}
+
+.a_2 {
+    position: relative;
+    top: 300px;
+    left: 280px;
+    z-index: 99;
+    font-size: 40px;
+}
+
+.text_mes{
+    position: relative;
+    top: 300px;
+    left: 280px;
+    z-index: 99;
+    font-size: 40px;
+}
